@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# env files
+config/
+
+mongod.exe --dbpath=/Users/caio.telles/mogodb-data
